@@ -1,2 +1,2 @@
 # first-repo
-This is my first GET repository
+This is my first GIT repository
