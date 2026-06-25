@@ -1,3 +1,3 @@
 # first-repo
-This is my first GIT repository
-we are moving one step more towards our great feature 
+<p>This is my first GIT repository <br>
+we are moving one step more towards our great feature </p>p
